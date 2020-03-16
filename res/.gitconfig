@@ -1,0 +1,7 @@
+[user]
+  email = danialgoodwin@gmail.com
+  name = Danial Goodwin
+[alias]
+  st = status
+  br = branch -a
+  lg = log -10 --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
