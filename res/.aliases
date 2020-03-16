@@ -1,0 +1,31 @@
+
+alias ..='cd ..'
+alias ...='cd ../..'
+alias c='printf "\n\n\n\n\n\n\n\n\n\n"'
+alias ca='cd $1 && la'
+alias cl='c; clear'
+alias ff='find . -type f -iname'
+alias fd='find . -type d -iname'
+alias grepc='grep --color'
+alias grepi='grep -i --color'
+alias grepr='grep -ir --color'
+alias la='ls -Ahl'
+alias lt='ls -Ahlrt'
+alias lt5='ls -Ahlrt | tail -5'
+alias showpath='echo $PATH | tr : \\n | sort'
+alias v='vim'
+
+alias ga='git add'
+alias gca='git commit -am'
+alias gcm='git commit -m'
+alias gcom='git checkout master'
+alias gd='git diff'
+alias gl='git log --oneline -10'
+alias gs='git status'
+
+alias nrs='npm run serve'
+alias nrt='npm run test'
+
+alias sa='source ~/.aliases'
+alias ea='v ~/.aliases'
+
