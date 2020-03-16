@@ -11,10 +11,18 @@ def setup_mac():
 def setup_windows():
     print('setup_windows()')
     # TODO: Notepad++?
+    # TODO: 7-zip
+    # TODO: Python
+    # TODO: Git Bash
 
 
-def setup():
+def setup_common():
     print('setup()')
+    # TODO: dot files
+    # TODO: Chrome
+    # TODO: JetBrains IDEs
+    # TODO: Logitech G-Hub (for mouse)
+    # TODO: Android Studio + SDK
 
 def main():
     print('main()')
