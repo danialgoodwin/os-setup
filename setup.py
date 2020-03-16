@@ -10,6 +10,7 @@ def setup_mac():
 
 def setup_windows():
     print('setup_windows()')
+    # TODO: Chocolatey?
     # TODO: Notepad++?
     # TODO: 7-zip
     # TODO: Python
@@ -23,6 +24,7 @@ def setup_common():
     # TODO: JetBrains IDEs
     # TODO: Logitech G-Hub (for mouse)
     # TODO: Android Studio + SDK
+
 
 def main():
     print('main()')
