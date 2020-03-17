@@ -21,7 +21,7 @@ def setup_common():
     print('setup()')
     # TODO: dot files
     # TODO: Chrome
-    # TODO: JetBrains IDEs
+    # TODO: JetBrains IDEs: IntelliJ IDEA Ultimate, PyCharm Professional, WebStorm
     # TODO: Logitech G-Hub (for mouse)
     # TODO: Android Studio + SDK
 
