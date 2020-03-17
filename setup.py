@@ -10,11 +10,17 @@ def setup_mac():
 
 def setup_windows():
     print('setup_windows()')
-    # TODO: Chocolatey?
-    # TODO: Notepad++?
-    # TODO: 7-zip
-    # TODO: Python
-    # TODO: Git Bash
+    # choco install 7zip.install
+    # choco install autohotkey.portable
+    # choco install git.install --params "/NoGuiHereIntegration"
+    # choco install googlechrome
+    # choco install intellijidea-ultimate
+    # choco install pycharm
+    # choco install python
+    # choco install python3
+    # choco install nodejs.install
+    # choco install notepadplusplus.install
+    # choco install webstorm
 
 
 def setup_common():
