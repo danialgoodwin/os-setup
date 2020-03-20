@@ -11,7 +11,11 @@ Automate the setup of my operating system
 1. Install Chocolatey (chocolatey.org/install)
 1. Install the following apps via choco:
 
+        choco install googlechrome -y
         choco install jetbrainstoolbox -y
+        choco install 7zip.install -y
+        choco install git.install -y
+        choco install python3 -y
         
 1. Install JetBrains IDEs:
     1. Sign into JetBrains Toolbox
