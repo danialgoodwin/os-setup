@@ -4,3 +4,18 @@ Automate the setup of my operating system
 
 ## TODO
 - Add Logitech G-Hub (for mouse)
+
+
+## Windows (2020-03-20)
+1. Uninstall unnecessary apps
+1. Install Chocolatey (chocolatey.org/install)
+1. Install the following apps via choco:
+
+        choco install jetbrainstoolbox -y
+        
+1. Install JetBrains IDEs:
+    1. Sign into JetBrains Toolbox
+    1. IntelliJ IDEA Ultimate
+    1. PyCharm Professional
+    1. WebStorm
+    1. Android Studio
