@@ -14,7 +14,9 @@ Automate the setup of my operating system
         choco install googlechrome -y
         choco install jetbrainstoolbox -y
         choco install 7zip.install -y
+        choco install flutter -y
         choco install git.install -y
+        choco install nodejs.install -y
         choco install python3 -y
         
 1. Install JetBrains IDEs:
