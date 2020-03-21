@@ -26,3 +26,12 @@ Automate the setup of my operating system
     1. WebStorm
     1. Android Studio
 1. Install Logitech G Hub (https://www.logitechg.com/en-us/innovation/g-hub.html)
+1. Update File Explorer:
+    - Go to 'View' > Options > View, and set the following values:
+        - Check 'Show hidden files, folders, and drives'
+        - Uncheck 'Hide extensions for known file types'
+1. Copy dot files to home directory:
+    - .aliases
+    - .gitconfig
+    - .ssh
+    - .vimrc
