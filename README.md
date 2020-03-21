@@ -16,7 +16,6 @@ Automate the setup of my operating system
         choco install 7zip.install -y
         choco install flutter -y
         choco install git.install -y
-        choco install logitechgaming -y
         choco install nodejs.install -y
         choco install python3 -y
         
@@ -26,3 +25,4 @@ Automate the setup of my operating system
     1. PyCharm Professional
     1. WebStorm
     1. Android Studio
+1. Install Logitech G Hub (https://www.logitechg.com/en-us/innovation/g-hub.html)
