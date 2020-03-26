@@ -17,6 +17,7 @@ Automate the setup of my operating system
         choco install flutter -y
         choco install git.install -y
         choco install imagemagick.app -y
+        choco install inkscape -y
         choco install nodejs.install -y
         choco install pngquant -y
         choco install python3 -y
