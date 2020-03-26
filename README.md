@@ -19,6 +19,7 @@ Automate the setup of my operating system
         choco install imagemagick.app -y
         choco install inkscape -y
         choco install nodejs.install -y
+        choco install paint.net -y
         choco install pngquant -y
         choco install python3 -y
         
