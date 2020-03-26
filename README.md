@@ -18,6 +18,7 @@ Automate the setup of my operating system
         choco install git.install -y
         choco install imagemagick.app -y
         choco install nodejs.install -y
+        choco install pngquant -y
         choco install python3 -y
         
 1. Install JetBrains IDEs:
