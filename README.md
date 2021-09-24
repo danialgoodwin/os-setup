@@ -39,3 +39,8 @@ Automate the setup of my operating system
     - .gitconfig
     - .ssh
     - .vimrc
+
+1. Other installs:
+- Microsoft PowerToys (for caps > esc)
+- Notepad++
+- Microsoft Office?
