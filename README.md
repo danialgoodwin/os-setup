@@ -2,8 +2,18 @@
 Automate the setup of my operating system
 
 
-## TODO
-- Add Logitech G-Hub (for mouse)
+
+## Windows (2021-09-25)
+1. Install apps:
+  - Chrome (and set as default browser)
+  - Logitech G-Hub (and set up mouse)
+  - Microsoft PowerToys (for caps > esc)
+  - Git
+  - IntelliJ IDEA Ultimate
+  - Android Studio
+2. Setup ~/.ssh/
+3. Setup aliases (~/.aliases, ~/.bashrc, ~/.vimrc)
+
 
 
 ## Windows (2020-03-20)
