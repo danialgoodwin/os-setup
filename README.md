@@ -12,7 +12,7 @@ Automate the setup of my operating system
   - IntelliJ IDEA Ultimate
   - Android Studio
 2. Setup ~/.ssh/
-3. Setup aliases (~/.aliases, ~/.bashrc, ~/.vimrc)
+3. Setup aliases (~/.aliases, ~/.bashrc, ~/.gitconfig, ~/.vimrc)
 
 
 
