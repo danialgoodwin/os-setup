@@ -32,6 +32,8 @@ alias gcob='git checkout -b'
 alias gcom='git checkout main'
 alias gd='git diff'
 alias gl='git log --oneline -10'
+alias gph='git push'
+alias gpl='git pull'
 alias greset='git checkout . && git reset --hard && git status'
 alias gs='git status'
 
